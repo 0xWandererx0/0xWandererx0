@@ -10,7 +10,7 @@
     <a href="https://github.com/0xWandererx0">
       <img src="https://img.shields.io/badge/GitHub-0xWandererx0-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/KULLANICI-ADIN/">
+    <a href="https://www.linkedin.com/in/batuhantugradonmez/">
       <img src="https://img.shields.io/badge/LinkedIn-Batuhan%20Tu%C4%9Fra%20D%C3%B6nmez-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
