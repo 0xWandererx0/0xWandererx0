@@ -2,7 +2,7 @@
 
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=230&section=header&text=Batuhan%20Tu%C4%9Fra%20D%C3%B6nmez&fontSize=52&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=Cyber%20Security%20%E2%80%A2%20Red%20%26%20Blue%20Team%20%E2%80%A2%20Developer&descSize=18&descAlignY=57" width="100%" alt="Batuhan Tuğra Dönmez" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=230&section=header&text=Batuhan%20Tugra%20Donmez&fontSize=50&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20-%20Red%20%26%20Blue%20Team%20-%20Developer&descSize=18&descAlignY=58" width="100%" alt="Batuhan Tuğra Dönmez" />
 </p>
 
 <p align="center">
